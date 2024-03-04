@@ -1,5 +1,11 @@
 # Pong
 
+## ⚠️ Archived Project Notice
+
+This project is no longer maintained. Feel free to explore or fork the code, but it is provided as-is.
+
+## Description
+
 Welcome to my version of the classic Pong game implemented in Assembly 8086. This game will provide a nostalgic experience of the iconic pong game (when there aren't any major bugs). This game can be played single and as a duo.
 
 <!-- ![Demo video of my pong game](/media/Pong.mp4) -->
